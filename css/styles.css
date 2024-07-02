@@ -55,12 +55,12 @@ nav ul li a:hover {
 
 /* Estilo para el estado :visited */
 nav ul li a:visited {
-  color: #fff; /* Color del texto para enlaces visitados */
+  color: #fff;
 }
 
 /* Estilo para el estado :focus */
 nav ul li a:focus {
-  outline: none; /* Eliminar el contorno de enfoque */
+  outline: none;
 }
 
 main {
