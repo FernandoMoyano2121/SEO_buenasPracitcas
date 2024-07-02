@@ -2,7 +2,7 @@
 
 ---
 
-SEO (Search Engine Optimization) es el proceso de optimizar una página web para mejorar su visibilidad en los motores de búsqueda como Google, Bing, y otros. El objetivo principal del SEO es aumentar el tráfico orgánico hacia el sitio web, es decir, el número de visitantes que llegan a través de resultados de búsqueda no pagados. Aquí hay algunos aspectos clave del SEO:
+SEO **(Search Engine Optimization)** es el proceso de optimizar una página web para mejorar su visibilidad en los motores de búsqueda como Google, Bing, y otros. El objetivo principal del SEO es aumentar el tráfico orgánico hacia el sitio web, es decir, el número de visitantes que llegan a través de resultados de búsqueda no pagados. Aquí hay algunos aspectos clave del SEO:
 
 La **indexación** de una página web es el proceso mediante el cual los motores de búsqueda, como Google, recopilan, analizan y almacenan información sobre las páginas web para que puedan ser recuperadas y mostradas en los resultados de búsqueda. Este proceso implica varias etapas:
 
